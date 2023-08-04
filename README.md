@@ -1,0 +1,3 @@
+- 👋 Hi, I’m xzl
+- 👀 I’m interested in Kernel,Reverse Engineering, Software Engineering 
+- 🌱 I’m currently learning Python,C,and some web development 
